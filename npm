@@ -1,0 +1,3 @@
+npm used to download the dependancy on our computer
+1)local:- folder based - store in disk that is ind D drive inside a folder - D:\ProjectName\Node_modulenpm init
+2)global:- system based
